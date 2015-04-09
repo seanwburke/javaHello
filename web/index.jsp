@@ -11,7 +11,7 @@
     <title></title>
   </head>
   <body>
-    <p>This is a test, today's date is:</p> <%= new java.util.Date() %>
+    <p>So this is a test, today's date is:</p> <%= new java.util.Date() %>
 
   </body>
 </html>
